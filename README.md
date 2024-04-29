@@ -1,1 +1,1 @@
-# T2I-PAL
+# T2I-PAL, coming soon
